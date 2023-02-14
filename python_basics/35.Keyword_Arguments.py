@@ -12,6 +12,6 @@ greet_user("Olivia", last_name="Mtipe")
 def calc_cost(total, shipping, discount):
     pass
 
-# keyword arguments assign the values to the parameters
+# keyword arguments assign the values to the parameters & they also improve the readability of the code
 calc_cost(total=50, shipping=5,discount=0.1)
 print("Finish")
