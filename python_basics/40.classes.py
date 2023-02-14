@@ -4,7 +4,9 @@ class Point:
     def draw(self):
         print("draw")
 
-        
+# creating object
+
+
 Point1 = Point()
 Point1.x = 10
 Point1.y = 20
