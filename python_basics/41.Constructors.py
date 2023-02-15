@@ -20,7 +20,7 @@ print(Point.x)
 # EXercise
 
 class Person:
-    def __init__(self, name):
+    def __init__(self, name):  # a constructor
         self.name = name
 
     def talk(self):
